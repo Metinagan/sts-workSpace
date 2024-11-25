@@ -1,0 +1,5 @@
+package com.meetinagan.config;
+
+public class AppConfig {
+
+}
