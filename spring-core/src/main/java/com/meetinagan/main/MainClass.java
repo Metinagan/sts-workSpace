@@ -8,7 +8,6 @@ import com.meetinagan.model.User;
 import com.meetinagan.services.UserService;
 
 public class MainClass {
-
 	public static void main(String[] args) {
 		
 		ApplicationContext context=new AnnotationConfigApplicationContext(AppConfig.class);
@@ -17,8 +16,6 @@ public class MainClass {
 		for(User user:userService.getUserList()) {
 			System.out.println(user);
 		}
-		
-
+	
 	}
-
 }
