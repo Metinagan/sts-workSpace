@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\StsWorkspace\sts-workSpace\pageable"/>
 			<item value="C:\sts-workSpace\spring-data-jpa"/>
 			<item value="C:\sts-workSpace\pageable"/>
 			<item value="C:\sts-workSpace\jwt"/>
