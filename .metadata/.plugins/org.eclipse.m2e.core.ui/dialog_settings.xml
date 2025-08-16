@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Metin\Desktop\spring-boot-greet"/>
 			<item value="C:\StsWorkspace\sts-workSpace\gallerist"/>
 			<item value="C:\StsWorkspace\sts-workSpace\pageable"/>
 			<item value="C:\sts-workSpace\spring-data-jpa"/>
